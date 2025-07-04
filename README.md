@@ -1,5 +1,3 @@
-以下是为GitHub仓库设计的README框架及开源建议，结合论文核心内容进行了结构化组织：
-
 基于K近邻图神经网络的商业智能选址预测
 
 https://opensource.org/licenses/MIT
