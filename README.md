@@ -101,14 +101,14 @@ python train.py \
 
 📖 引用本项目
 
-@misc{chen2024location,
+@misc{chen2025location,
 
   title={基于K近邻图神经网络的商业智能选址预测方法},
   
   author={Jingshou Chen},
   
-  year={2024},
+  year={2025},
   
   publisher={GitHub},
   
-  howpublished={\url{https://github.com/yourusername/commercial-location-gnn}}
+  howpublished={\url{https://github.com/chenjingshou/commercial-location-gnn}}
